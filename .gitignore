@@ -1,0 +1,37 @@
+# compiled output
+/dist
+/tmp
+/coverage
+
+# dependencies
+node_modules
+
+# IDEs and editors
+.idea/*
+!.idea/misc.xml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - Vim
+.swo
+.swp
+.swn
+
+# misc
+npm-debug.log
+eslint-log.txt
+./**/__snapshots__
+
+# uploaded files
+backend/public
